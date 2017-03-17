@@ -1,0 +1,48 @@
+pa
+pg
+ps
+ai Tom Jones 123
+ai Silas Marner 456
+ai Elton John 789
+pi Marner
+pg
+ar 1001
+ar 1002
+am 1001 10 Music
+am 1001 2 Literature
+ap 1001 10 Jones
+ap 1001 10 John
+pr 1001
+pr 1002
+pm 1001 10
+pm 1001 2
+asd normal_save1.txt
+sd a
+ld normal_save11.txt
+sd a
+ld normal_save12.txt
+sd a
+ps
+pa
+rm 1001 10 1001 10
+rm 1001 10 1002 10
+rm 1002 10 1001 10
+rm 1001 10 1002 11
+rm 1002 11 1002 3
+ps
+di Marner
+dp 1002 3 John
+ps
+dm 1002 3
+pr 1002
+dr 1001
+sd normal_save2.txt
+ld normal_save2.txt
+ps
+ld normal_save1.txt
+ps
+ds
+dg
+da
+pa
+qq

@@ -1,0 +1,30 @@
+ai Ebenezer Scrooge 666
+ai Jacob Marley 000
+ar 1001
+ar 1002
+am 1001 10 Money
+ap 1001 10 Scrooge
+am 1002 10 Christmas
+ap 1002 10 Scrooge
+rm 1002 10 1002 11
+ap 1002 11 Marley
+ap 1002 11 Scrooge
+ps
+pc Scrooge
+pc Marley
+sd commit_save1.txt
+rm 1002 11 1002 10
+rm 1002 11 1002 9
+pc Scrooge
+pc Marley
+dm 1002 9
+ps
+pc Scrooge
+pc Marley
+ds
+pc Scrooge
+ld commit_save1.txt
+ps
+pc Scrooge
+pc Marley
+qq

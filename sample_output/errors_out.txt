@@ -1,0 +1,138 @@
+
+Enter command: Unrecognized command!
+
+Enter command: Person Jones added
+
+Enter command: There is already a person with this last name!
+
+Enter command: No person with that name!
+
+Enter command: Room 1001 added
+
+Enter command: There is already a room with this number!
+
+Enter command: Could not read an integer value!
+
+Enter command: Room number is not in range!
+
+Enter command: Meeting added at 10
+
+Enter command: There is already a meeting at that time!
+
+Enter command: Could not read an integer value!
+
+Enter command: Time is not in range!
+
+Enter command: No person with that name!
+
+Enter command: No person with that name!
+
+Enter command: Participant Jones added
+
+Enter command: This person is already a participant!
+
+Enter command: Participant Jones deleted
+
+Enter command: This person is not a participant in the meeting!
+
+Enter command: Participant Jones added
+
+Enter command: No meeting at that time!
+
+Enter command: No room with that number!
+
+Enter command: No room with that number!
+
+Enter command: Information for 1 rooms:
+--- Room 1001 ---
+Meeting time: 10, Topic: Silly_Stuff
+Participants:
+Tom Jones 123
+
+Enter command: Cannot clear people list unless there are no meetings!
+
+Enter command: This person is a participant in a meeting!
+
+Enter command: Information for 1 people:
+Tom Jones 123
+
+Enter command: Information for 1 rooms:
+--- Room 1001 ---
+Meeting time: 10, Topic: Silly_Stuff
+Participants:
+Tom Jones 123
+
+Enter command: Memory allocations:
+Persons: 1
+Meetings: 1
+Rooms: 1
+
+Enter command: Could not open file!
+
+Enter command: Information for 1 people:
+Tom Jones 123
+
+Enter command: Information for 1 rooms:
+--- Room 1001 ---
+Meeting time: 10, Topic: Silly_Stuff
+Participants:
+Tom Jones 123
+
+Enter command: Memory allocations:
+Persons: 1
+Meetings: 1
+Rooms: 1
+
+Enter command: Data loaded
+
+Enter command: Person Wordsworth added
+
+Enter command: Information for 4 people:
+Elton John 789
+Tom Jones 123
+Silas Marner 456
+William Wordsworth 555
+
+Enter command: Information for 2 rooms:
+--- Room 1001 ---
+Meeting time: 10, Topic: Music
+Participants:
+Elton John 789
+Tom Jones 123
+Meeting time: 2, Topic: Literature
+Participants: None
+--- Room 1002 ---
+No meetings are scheduled
+
+Enter command: Memory allocations:
+Persons: 4
+Meetings: 2
+Rooms: 2
+
+Enter command: Invalid data found in file!
+
+Enter command: Information for 4 people:
+Elton John 789
+Tom Jones 123
+Silas Marner 456
+William Wordsworth 555
+
+Enter command: Information for 2 rooms:
+--- Room 1001 ---
+Meeting time: 10, Topic: Music
+Participants:
+Elton John 789
+Tom Jones 123
+Meeting time: 2, Topic: Literature
+Participants: None
+--- Room 1002 ---
+No meetings are scheduled
+
+Enter command: Memory allocations:
+Persons: 4
+Meetings: 2
+Rooms: 2
+
+Enter command: All rooms and meetings deleted
+All persons deleted
+Done

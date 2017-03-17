@@ -1,0 +1,89 @@
+
+Enter command: Person Scrooge added
+
+Enter command: Person Marley added
+
+Enter command: Room 1001 added
+
+Enter command: Room 1002 added
+
+Enter command: Meeting added at 10
+
+Enter command: Participant Scrooge added
+
+Enter command: Meeting added at 10
+
+Enter command: Person is already committed at that time!
+
+Enter command: Meeting rescheduled to room 1002 at 11
+
+Enter command: Participant Marley added
+
+Enter command: Participant Scrooge added
+
+Enter command: Information for 2 rooms:
+--- Room 1001 ---
+Meeting time: 10, Topic: Money
+Participants:
+Ebenezer Scrooge 666
+--- Room 1002 ---
+Meeting time: 11, Topic: Christmas
+Participants:
+Jacob Marley 000
+Ebenezer Scrooge 666
+
+Enter command: Room:1001 Time: 10 Topic: Money
+Room:1002 Time: 11 Topic: Christmas
+
+Enter command: Room:1002 Time: 11 Topic: Christmas
+
+Enter command: Data saved
+
+Enter command: A participant is already committed at the new time!
+
+Enter command: Meeting rescheduled to room 1002 at 9
+
+Enter command: Room:1001 Time: 10 Topic: Money
+Room:1002 Time: 9 Topic: Christmas
+
+Enter command: Room:1002 Time: 9 Topic: Christmas
+
+Enter command: Meeting at 9 deleted
+
+Enter command: Information for 2 rooms:
+--- Room 1001 ---
+Meeting time: 10, Topic: Money
+Participants:
+Ebenezer Scrooge 666
+--- Room 1002 ---
+No meetings are scheduled
+
+Enter command: Room:1001 Time: 10 Topic: Money
+
+Enter command: No commitments
+
+Enter command: All meetings deleted
+
+Enter command: No commitments
+
+Enter command: Data loaded
+
+Enter command: Information for 2 rooms:
+--- Room 1001 ---
+Meeting time: 10, Topic: Money
+Participants:
+Ebenezer Scrooge 666
+--- Room 1002 ---
+Meeting time: 11, Topic: Christmas
+Participants:
+Jacob Marley 000
+Ebenezer Scrooge 666
+
+Enter command: Room:1001 Time: 10 Topic: Money
+Room:1002 Time: 11 Topic: Christmas
+
+Enter command: Room:1002 Time: 11 Topic: Christmas
+
+Enter command: All rooms and meetings deleted
+All persons deleted
+Done
